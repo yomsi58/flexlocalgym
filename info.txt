@@ -1,0 +1,24 @@
+Assignment 5: Module 1 Homework - Local Gym
+Brandon Apol
+•
+Oct 29, 2021 (Edited Aug 8)
+5 points
+A client approaches! A local gym has requested that you create a mockup website for them. You'll be tasked with creating the site and "delivering" it to the gym owner. Optional: Record a 3-5 minute video presenting your website to the theoretical client and submit it here. Otherwise, feel free to just deliver the GitHub URL here. 
+
+For this assignment, you'll have free reign creatively - we want to see your creativity shine! Your task here is to create a small website for a local gym (whatever activity you'd like to choose, feel free - rock climbing, swimming, weight lifting, yoga, golf, whatever, as long as it's athleticish and something a local business in your community would actually offer). The site should have at least 4 pages - a landing page, an about page, and sign in and sign out pages. Feel free to add more if you want. The site should have a form, a navbar and footer, should use either CSS Grid or Bootstrap (Your choice this time) somewhere on the site, and several images from Unsplash or similar. (Please source your images legally.) And of course - Have fun with it! One of our goals is for students to fall in love with the act of coding - this is your time to be creative, and practice what you've learned.
+
+
+4 pages
+    landing
+    about
+    sign in
+    sign out
+    
+Should have
+    form
+    navbar
+    footer
+    
+
+
+If you need inspiration for the layout, try dribbble.com for ideas.

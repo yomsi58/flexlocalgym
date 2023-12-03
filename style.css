@@ -1,0 +1,77 @@
+            * {
+                /* border: 1px solid red; */
+                font-family: Lato;
+            }
+            
+            
+            a {
+                text-decoration: none;
+                color: #537ca8;
+            }
+            
+            a:hover {
+                color: #a84f4f;
+            }
+            
+            .main-title-img,
+            #main-title-img {
+                display: flex;
+                z-index: -1;
+                width: auto;
+                height: auto;
+                margin-left: auto;
+                margin-right: auto;
+                background-image: var(--bs-gradient);
+            }
+             .main-title {
+                background-image: url('images/background/background2.jpeg');
+                display: flex;
+                max-width: auto;
+                height: auto;
+                margin-left: auto;
+                margin-right: auto;
+                object-fit: contain;
+            } 
+            
+            footer {
+                background-color: #5094cf;
+                color: #1d4975;
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                padding-top: 30px;
+                justify-content: center;
+                margin-bottom: 0px;
+            }
+            
+            .foot-info,
+            .footshows,
+            .socials {
+                display: flex;
+                flex-direction: column;
+                width: 25%;
+                font-size: 1em;
+                padding-left: 10px;
+            }
+            
+            .foothead {
+                font-size: 1.3em;
+                text-align: center;
+                font-weight: bolder;
+                text-decoration: underline;
+            }
+            
+            .socials {
+                text-align: center;
+            }
+            
+            .tiny {
+                margin: 3px;
+            }
+
+            #navbar {
+                position: relative;
+                left: -90px;
+                background-color: #ad3939; /*Whatever color you want goes here, but in Hexadecimal form*/
+                color: #1122cc; /*The color of your font also goes here, but in hexadecimal form*/
+            }
